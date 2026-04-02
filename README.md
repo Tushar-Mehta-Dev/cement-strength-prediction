@@ -51,3 +51,8 @@ The model achieved good prediction performance using R² score and Mean Squared 
 1. Open the notebook in Google Colab  
 2. Run all cells  
 3. Modify input values to test predictions  
+
+<img width="531" height="393" alt="download" src="https://github.com/user-attachments/assets/e81c64fb-ce84-4544-b56a-e13c26d6a211" />
+<img width="531" height="393" alt="download (1)" src="https://github.com/user-attachments/assets/12a383d8-4f89-4215-b83e-c44252400df2" />
+<img width="531" height="393" alt="download (2)" src="https://github.com/user-attachments/assets/25597945-38f4-41da-bcb9-ea2e5890a1eb" />
+
