@@ -29,7 +29,7 @@ Developed prediction and optimization logic
 
 🤝 Note
 
-##This was a team project. Dataset collection and some visualization components were handled collaboratively.
+This was a team project. Dataset collection and some visualization components were handled collaboratively.
 
 
 
